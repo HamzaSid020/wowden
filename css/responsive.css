@@ -183,7 +183,7 @@
         margin: 20px 0px;
         min-height: 320px;
     }
-    .banner_taital {
+    .banner_title {
         font-size: 50px;
     }
     #main_slider a.carousel-control-next {
@@ -271,7 +271,7 @@
     .lang_box {
         background-color: transparent;
     }
-    .banner_taital {
+    .banner_title {
         font-size: 40px;
     }
     #my_slider a.carousel-control-prev {
@@ -400,7 +400,7 @@
     .lang_box {
         background-color: transparent;
     }
-    .banner_taital {
+    .banner_title {
         font-size: 24px;
     }
     #my_slider a.carousel-control-prev {
